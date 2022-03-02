@@ -1,19 +1,20 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
+* [World’s First Sport De-Fi Token](README.md)
 
-## Guides
+## BLUETHERIUM
 
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
+* [What's BLUT](bluetherium/whats-blut.md)
+* [Benefits](bluetherium/benefits.md)
+* [Roadmap](bluetherium/roadmap.md)
+* [Team](bluetherium/team.md)
 
-## Fundamentals
+## FAQ
 
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
+* [What is the BLUT?](faq/what-is-the-blut.md)
+* [Members](faq/members.md)
+* [Task Lists](faq/task-lists.md)
+* [Tasks](faq/tasks.md)
 
 ## Use Cases
 
