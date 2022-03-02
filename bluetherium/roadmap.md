@@ -5,11 +5,13 @@
 * [x] Planning of the Project&#x20;
 * [x] Launching of the website&#x20;
 * [x] Publishing of the whitepaper v1&#x20;
-* [ ] Presale and ICO launchpad&#x20;
+* [x] Creating the Smart Contracts platform&#x20;
+
+
 
 ### [PHASE B](roadmap.md#phase-b)
 
-* [ ] Creating the Smart Contracts platform&#x20;
+* [ ] Presale and ICO launchpad&#x20;
 * [ ] Obtaining an Audit Certificate&#x20;
 * [ ] Launching of BlueSwap (Bluetherium’s swap platform)&#x20;
 * [ ] Dex Listings&#x20;
