@@ -12,19 +12,14 @@
 ## FAQ
 
 * [What is the BLUT?](faq/what-is-the-blut.md)
-* [Members](faq/members.md)
-* [Task Lists](faq/task-lists.md)
-* [Tasks](faq/tasks.md)
+* [What is our vision?](faq/what-is-our-vision.md)
+* [How to Buy?](faq/how-to-buy.md)
+* [Why should the community trust BLUT?](faq/why-should-the-community-trust-blut.md)
+* [Will BLUT use Metaverse and NFT?](faq/will-blut-use-metaverse-and-nft.md)
+* [What is BLUT minning?](faq/what-is-blut-minning.md)
+* [What are the long-term benefits?](faq/what-are-the-long-term-benefits.md)
 
-## Use Cases
+## Ecosystem
 
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [Community](ecosystem/community.md)
+* [Foundation](ecosystem/foundation.md)

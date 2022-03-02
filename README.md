@@ -24,14 +24,14 @@ Solving the financial problem with the Bluetherium DeFi ecosystem and being able
 [what-is-the-blut.md](faq/what-is-the-blut.md)
 {% endcontent-ref %}
 
-{% content-ref url="faq/members.md" %}
-[members.md](faq/members.md)
+{% content-ref url="faq/what-is-our-vision.md" %}
+[what-is-our-vision.md](faq/what-is-our-vision.md)
 {% endcontent-ref %}
 
-{% content-ref url="faq/task-lists.md" %}
-[task-lists.md](faq/task-lists.md)
+{% content-ref url="faq/how-to-buy.md" %}
+[how-to-buy.md](faq/how-to-buy.md)
 {% endcontent-ref %}
 
-{% content-ref url="faq/tasks.md" %}
-[tasks.md](faq/tasks.md)
+{% content-ref url="faq/why-should-the-community-trust-blut.md" %}
+[why-should-the-community-trust-blut.md](faq/why-should-the-community-trust-blut.md)
 {% endcontent-ref %}
