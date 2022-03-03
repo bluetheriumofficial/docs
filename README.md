@@ -1,9 +1,9 @@
 ---
-cover: .gitbook/assets/55.jpg
+cover: .gitbook/assets/z1.jpg
 coverY: 0
 ---
 
-# World’s First Sports De-Fi Token
+# World’s #1 Sports De-Fi Token
 
 ### LEVEL UP YOUR SPORTS EXPERIENCE NOW
 
