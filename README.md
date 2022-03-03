@@ -14,8 +14,8 @@ Solving the financial problem with the Bluetherium DeFi ecosystem and being able
 [benefits.md](bluetherium/benefits.md)
 {% endcontent-ref %}
 
-{% content-ref url="bluetherium/roadmap.md" %}
-[roadmap.md](bluetherium/roadmap.md)
+{% content-ref url="bluetherium/whitepaper-v1.01/roadmap.md" %}
+[roadmap.md](bluetherium/whitepaper-v1.01/roadmap.md)
 {% endcontent-ref %}
 
 ### FAQ
