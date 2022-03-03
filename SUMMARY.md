@@ -1,6 +1,6 @@
 # Table of contents
 
-* [World’s First Sports De-Fi Token](README.md)
+* [World’s #1 Sports De-Fi Token](README.md)
 
 ## BLUETHERIUM
 
