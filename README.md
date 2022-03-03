@@ -1,6 +1,11 @@
-# World’s First Sport De-Fi Token
+---
+cover: .gitbook/assets/222.jpg
+coverY: 0
+---
 
-### LEVEL UP YOUR SPORT EXPERIENCE NOW
+# World’s First Sports De-Fi Token
+
+### LEVEL UP YOUR SPORTS EXPERIENCE NOW
 
 Solving the financial problem with the Bluetherium DeFi ecosystem and being able to both do sports and earn money with the blockchain and metaverse technology we will produce
 
