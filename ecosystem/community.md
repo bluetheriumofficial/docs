@@ -6,7 +6,7 @@
 
 <summary> Telegram</summary>
 
-[https://t.me/+dxYcWAZHnW4yOTg0](https://t.me/+dxYcWAZHnW4yOTg0)
+[https://t.me/bluetheriumofficial](https://t.me/bluetheriumofficial)
 
 </details>
 
