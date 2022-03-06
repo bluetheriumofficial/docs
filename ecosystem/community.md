@@ -1,5 +1,7 @@
 # Community
 
+
+
 <details>
 
 <summary> Telegram</summary>
@@ -37,5 +39,21 @@
 <summary>Medium</summary>
 
 [https://medium.com/@bluetheriumofficial](https://medium.com/@bluetheriumofficial)
+
+</details>
+
+<details>
+
+<summary>Discord</summary>
+
+[https://discord.gg/XGppe8vW](https://discord.gg/XGppe8vW)
+
+</details>
+
+<details>
+
+<summary>Github</summary>
+
+[https://github.com/bluetheriumofficial](https://github.com/bluetheriumofficial)
 
 </details>
