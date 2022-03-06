@@ -11,13 +11,13 @@ Bluetherium is ​​glad to announce that the BLUT token will be available for 
 &#x20; **Our ContactAddres** : 0xef4eC6011C6feD75abccc51aF378A26894865F87
 
 * ```
-  1. PHASE    4,000,000 = 4M BLUT Token     
+  1. PHASE    4,000,000 = 4M BLUT Token     0,20 ¢ Cent
   ```
 * ```
-  2. PHASE    4,000,000 = 4M BLUT Token 
+  2. PHASE    4,000,000 = 4M BLUT Token     0,30 ¢ Cent
   ```
 * ```
-  3. PHASE    4,000,000 = 4M BLUT Token 
+  3. PHASE    4,000,000 = 4M BLUT Token     0,40 ¢ Cent
   ```
 
 You can purchase BLUT from our ICO launchpad. Please note that there is a limited timeframe for the different phases of the ICO.
