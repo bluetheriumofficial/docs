@@ -4,6 +4,14 @@
 
 <details>
 
+<summary>Bluetherium Announcements</summary>
+
+[https://t.me/bluetheriumannouncements](https://t.me/bluetheriumannouncements)
+
+</details>
+
+<details>
+
 <summary> Telegram</summary>
 
 [https://t.me/bluetheriumofficial](https://t.me/bluetheriumofficial)
