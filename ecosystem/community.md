@@ -28,6 +28,14 @@
 
 <details>
 
+<summary>Instagram</summary>
+
+[https://www.instagram.com/bluetheriumofficial/](https://www.instagram.com/bluetheriumofficial/)
+
+</details>
+
+<details>
+
 <summary> Youtube</summary>
 
 [https://www.youtube.com/channel/UCi9-z3QPLyWfsB8aI-n2bqA](https://www.youtube.com/channel/UCi9-z3QPLyWfsB8aI-n2bqA)
