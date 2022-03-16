@@ -7,6 +7,7 @@
 * [What's BLUT](bluetherium/whats-blut.md)
 * [Benefits](bluetherium/benefits.md)
 * [Whitepaper v1.01](bluetherium/whitepaper-v1.01/README.md)
+  * [Tokenomics](bluetherium/whitepaper-v1.01/tokenomics.md)
   * [Problem](bluetherium/whitepaper-v1.01/problem/README.md)
     * [Economic:](bluetherium/whitepaper-v1.01/problem/economic.md)
     * [Education](bluetherium/whitepaper-v1.01/problem/education.md)
