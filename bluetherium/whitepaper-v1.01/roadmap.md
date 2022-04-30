@@ -10,7 +10,7 @@
 ### [PHASE B](roadmap.md#phase-b)
 
 * [ ] _Presale and ICO launchpad (Ongoing)_
-* [ ] Obtaining an Audit Certificate&#x20;
+* [x] Obtaining an Audit Certificate&#x20;
 * [ ] Launching of BlueSwap (Bluetherium’s swap platform)&#x20;
 * [ ] Dex Listings&#x20;
 
