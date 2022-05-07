@@ -32,4 +32,4 @@
 
 ## Logo & Brand Guideline
 
-* [Logo & Brand Guideline](logo-and-brand-guideline/logo-and-brand-guideline.md)
+* [Logo & Brand Guideline](logo-and-brand-guideline/logo-kit.md)
