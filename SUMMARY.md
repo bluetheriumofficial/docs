@@ -29,3 +29,8 @@
 
 * [Community](ecosystem/community.md)
 * [Foundation](ecosystem/foundation.md)
+
+## Logo & Brand Guideline
+
+* [Logo Kit](logo-and-brand-guideline/logo-kit.md)
+* [Brand Guideline](logo-and-brand-guideline/brand-guideline.md)
